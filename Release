@@ -1,0 +1,8 @@
+Origin: WA Classic iOS 7 test
+Label: WA Classic iOS 7 test
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: WA Classic for iOS 7 to 10 (unofficial test build)
