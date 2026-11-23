@@ -1,15 +1,15 @@
 Package: com.aronsz26.wa4s-ios7
-Version: 1.0.5
+Version: 1.0.6
 Architecture: iphoneos-arm
 Maintainer: aronsz26
 Depends: firmware (>= 7.0), firmware (<< 11.0)
 Conflicts: com.aronsz26.wa4s, com.aronsz26.wa4s-ios4
 Replaces: com.aronsz26.wa4s, com.aronsz26.wa4s-ios4
-Filename: debs/com.aronsz26.wa4s-ios7_1.0.5_iphoneos-arm.deb
-Size: 465846
-MD5sum: f4c30d96ca3fe22fe097bde8e5fde42b
-SHA1: d510871219f52b9713a21a0acfa78841da7b2146
-SHA256: 3d10a11d37581cb1137aa75a7b58872a6d9db2a73110389a63b9fe41e8ba49fe
+Filename: debs/com.aronsz26.wa4s-ios7_1.0.6_iphoneos-arm.deb
+Size: 466042
+MD5sum: 8ce0d9c244f6c7a78ebf4e6d4ef037fb
+SHA1: d1d85ca69ef6a08c9cf228e1f5ae69f870bf339c
+SHA256: a27bd3ad027cba873d182a0f099674ee27655db172bbf0bafe8d74291b201a0a
 Section: Social
 Description: Unofficial WhatsApp client for iOS 7 to 10, through your own WA Classic bridge (linked device). Not affiliated with WhatsApp or Meta.
 Author: aronsz26
